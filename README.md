@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Salp Swarm Algorithm (SSA) Project
 
 This project demonstrates the **Salp Swarm Algorithm (SSA)**, a swarm-based evolutionary algorithm for optimization.
